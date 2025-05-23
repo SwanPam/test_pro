@@ -24,3 +24,5 @@ async def bye_handler(message: Message):
     text = f'Сообщение Пока'
     
     await message.reply(text=text)
+
+# Внессли изменения
